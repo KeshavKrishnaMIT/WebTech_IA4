@@ -1,11 +1,3 @@
-# Global Degrees CRM Platform - Summer Internship Project 1
-
-A full-stack AI-powered CRM and student management platform built to streamline international education consulting workflows. The platform combines large-scale CRM management, advanced analytics, intelligent recommendation systems, and conversational AI to help counselors and management teams make faster, data-driven decisions.
-
-Designed around a real-world study abroad consultancy workflow, the system manages thousands of student records while providing instant business intelligence through AI-powered conversations, dynamic dashboards, and historical CRM analytics.
-
----
-
 # Live Demo
 
 **Application:**
@@ -174,7 +166,6 @@ Example questions supported:
 
 Instead of relying on keyword matching, the Copilot interprets user intent and performs real calculations directly on CRM datasets to produce meaningful answers.
 
----
 
 ## Student AI Advisor
 
@@ -199,7 +190,7 @@ The advisor provides:
 
 Every recommendation is backed by structured reasoning instead of generic AI-generated text.
 
----
+
 
 ## CRM Dataset Intelligence
 
@@ -221,7 +212,7 @@ The AI performs calculations across thousands of records to generate:
 
 This transforms the CRM into a conversational analytics platform capable of replacing many traditional reporting workflows.
 
----
+
 
 ## CSV Integration
 
@@ -232,7 +223,7 @@ This transforms the CRM into a conversational analytics platform capable of repl
 * Real-world CRM simulation
 * Dataset-driven analytics
 
----
+
 
 # Technology Stack
 
@@ -244,14 +235,14 @@ This transforms the CRM into a conversational analytics platform capable of repl
 * Context API
 * Recharts
 
----
+
 
 ## Backend & Database
 
 * Supabase
 * PostgreSQL
 
----
+
 
 ## Artificial Intelligence
 
@@ -264,14 +255,14 @@ This transforms the CRM into a conversational analytics platform capable of repl
 * Intent Detection
 * Historical Admission Analysis
 
----
+
 
 ## Deployment
 
 * GitHub
 * Vercel
 
----
+
 
 # System Architecture
 
@@ -324,7 +315,6 @@ global-degrees-crm/
 └── README.md
 ```
 
----
 
 # Business Use Case
 
@@ -347,7 +337,7 @@ Global Degrees CRM addresses these challenges by providing:
 
 The platform demonstrates how artificial intelligence can transform traditional CRM systems into intelligent business decision platforms.
 
----
+
 
 # Learning Outcomes
 
@@ -370,7 +360,7 @@ During the development of this project, the following concepts were implemented 
 * Large-scale CRM simulation
 * Executive analytics generation
 
----
+
 
 # Future Enhancements
 
@@ -385,15 +375,6 @@ During the development of this project, the following concepts were implemented 
 * External university API integrations
 * Real-time counselor notifications
 
----
-
-# Repository
-
-GitHub Repository:
-
-https://github.com/KeshavKrishnaMIT/global-degrees-crm
-
----
 
 # Author
 
